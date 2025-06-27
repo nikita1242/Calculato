@@ -11,7 +11,7 @@ int main(void)
     string action;
 
 
-    cout << ("напише 1 булевых выражения: \n");
+    cout << ("напише 1 булевое выражения: \n");
     cin >> i;
     cin >> a;
 
